@@ -1,0 +1,16 @@
+C:\Users\dell\source\repos\Vehicles_Solutions\Vehicles_Solutions\obj\Debug\Vehicles_Solutions.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Vehicles_Solutions\Vehicles_Solutions\obj\Debug\Vehicles_Solutions.csproj.SuggestedBindingRedirects.cache
+C:\Users\dell\source\repos\Vehicles_Solutions\Vehicles_Solutions\obj\Debug\Vehicles_Solutions.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Vehicles_Solutions\Vehicles_Solutions\bin\Debug\Vehicles_Solutions.exe.config
+C:\Users\dell\source\repos\Vehicles_Solutions\Vehicles_Solutions\bin\Debug\Vehicles_Solutions.exe
+C:\Users\dell\source\repos\Vehicles_Solutions\Vehicles_Solutions\bin\Debug\Vehicles_Solutions.pdb
+C:\Users\dell\source\repos\Vehicles_Solutions\Vehicles_Solutions\obj\Debug\Vehicles_Solutions.exe
+C:\Users\dell\source\repos\Vehicles_Solutions\Vehicles_Solutions\obj\Debug\Vehicles_Solutions.pdb
+C:\Users\dell\Desktop\Task_Solution\Solution_Two\Vehicles_Solutions\Vehicles_Solutions\bin\Debug\Vehicles_Solutions.exe.config
+C:\Users\dell\Desktop\Task_Solution\Solution_Two\Vehicles_Solutions\Vehicles_Solutions\bin\Debug\Vehicles_Solutions.exe
+C:\Users\dell\Desktop\Task_Solution\Solution_Two\Vehicles_Solutions\Vehicles_Solutions\bin\Debug\Vehicles_Solutions.pdb
+C:\Users\dell\Desktop\Task_Solution\Solution_Two\Vehicles_Solutions\Vehicles_Solutions\obj\Debug\Vehicles_Solutions.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\Task_Solution\Solution_Two\Vehicles_Solutions\Vehicles_Solutions\obj\Debug\Vehicles_Solutions.csproj.SuggestedBindingRedirects.cache
+C:\Users\dell\Desktop\Task_Solution\Solution_Two\Vehicles_Solutions\Vehicles_Solutions\obj\Debug\Vehicles_Solutions.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\Task_Solution\Solution_Two\Vehicles_Solutions\Vehicles_Solutions\obj\Debug\Vehicles_Solutions.exe
+C:\Users\dell\Desktop\Task_Solution\Solution_Two\Vehicles_Solutions\Vehicles_Solutions\obj\Debug\Vehicles_Solutions.pdb
